@@ -1,2 +1,2 @@
-![randers](https://media-exp1.licdn.com/dms/image/C4D1BAQGnbrwjc3LFsA/company-background_10000/0/1542094397546?e=1666173600&v=beta&t=vwMXofcdgC9oPll8vmLOTJlp4O9If-Gjfn2friNGEqo)
-#  - { DIGITALISERING.RANDERS.DK } -
+![randers](https://www.randers.dk/media/9661/hvid-rgb-01.png)
+#  - {  D I G I T A L I S E R I N G . R A N D E R S . D K   } -
