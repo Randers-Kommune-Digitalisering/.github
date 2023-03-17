@@ -52,11 +52,11 @@ For at kunne leve op til de ovenstående metoder og principper er platformen en 
 
 ### *Data Acquisition*
 
-- REST: https://restfulapi.net/
-- SOAP: https://www.w3.org/TR/soap/
-- SFTP: https://en.wikipedia.org/wiki/SSH_File_Transfer_Protocol
-- HTTPS: https://en.wikipedia.org/wiki/HTTPS
-- Puppeteer: https://pptr.dev/
+###### - REST: https://restfulapi.net/
+###### - SOAP: https://www.w3.org/TR/soap/
+###### - SFTP: https://en.wikipedia.org/wiki/SSH_File_Transfer_Protocol
+###### - HTTPS: https://en.wikipedia.org/wiki/HTTPS
+###### - Puppeteer: https://pptr.dev/
 
 ### *Dataformater og forespørgselssprog*
 
