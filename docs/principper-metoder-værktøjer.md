@@ -67,7 +67,6 @@ For at kunne leve op til de ovenstående metoder og principper er platformen en 
 
 ###### - Apache Superset: https://superset.apache.org/
 
-### *In-Memory Data Structure Store*
+### *Teknologier under afprøvning*
 
-###### - Redis: https://redis.io/
-
+###### - [Udviklingslaboratoriet](udviklingslaboratorie.md)
