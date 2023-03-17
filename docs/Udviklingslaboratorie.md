@@ -10,3 +10,8 @@
   > Open-source software fra [Meta](https://meta.com.), der kan anvendes til at lave forudsigelser og prognoser på tidsseriedata. Prophet er en avanceret algoritme, der både er nem at bruge, og som kan give præcise og pålidelige resultater.
 
   > En [artikel](https://towardsdatascience.com/time-series-analysis-with-facebook-prophet-how-it-works-and-how-to-use-it-f15ecf2c0e3a) der går i dybden med, hvordan man kan bruge Prophet til at analysere tidsseriedata og lave forudsigelser.
+
+## Headless data scraping
+
+- [Pupeteer](https://pptr.dev/)
+  > Puppeteer er et open-source Node.js bibliotek, der kan bruges til at automatisere webscraping og udtræk af data der kun er tilgængligt på websider.
