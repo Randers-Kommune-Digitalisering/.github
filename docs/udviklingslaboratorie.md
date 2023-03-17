@@ -5,12 +5,14 @@
 ### Tidligere eksperimenter
 
 ~~- [Node-RED](https://nodered.org/about/)~~
-~~> Visuelt flow-baseret open-source udviklingsværktøj med der kan bygge bro imellem traditionel node.js backend udvikling og forretningsdrevet udvikling.~~ 
-Implementeret og anvendt i produktion første gang i bl.a. [Randers Kommunes klimamonitor](https://github.com/Randers-Kommune-Digitalisering/vis-klimadata-initiativer-aktiviteter)
+~~> Visuelt flow-baseret open-source udviklingsværktøj med der kan bygge bro imellem traditionel node.js backend udvikling og forretningsdrevet udvikling.~~
+
+✅ Implementeret og anvendt i produktion første gang i bl.a. [Randers Kommunes klimamonitor](https://github.com/Randers-Kommune-Digitalisering/vis-klimadata-initiativer-aktiviteter)
 
 ~~- [JSONata](https://docs.jsonata.org/overview.html)~~
 ~~> Et deklarativt letvægts-sprog til forespørgsler og transformation af JSON-data~~ 
-Taget i brug i bl.a. [Randers Kommunes automatiske tilskudsbereging (v.1.0 - til fodterapi)](https://github.com/Randers-Kommune-Digitalisering/auto-tilskudsberegning-fodterapi)
+
+✅ Taget i brug i bl.a. [Randers Kommunes automatiske tilskudsbereging (v.1.0 - til fodterapi)](https://github.com/Randers-Kommune-Digitalisering/doc-arbejdsgangsbeskrivelser/tree/main/Udbetaling%20af%20tilskud%20til%20fodpleje)
 
 ### Nuværende eksperimenter (Q1-2023):
 
