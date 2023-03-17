@@ -15,9 +15,9 @@ Dette sikrer overholdelse af leverancemålene og den strategiske forankring og s
 
 For at kunne leve op til de ovenstående metoder og principper er platformen en levende størrelse i løbende udvikling. Vi bruger et sæt moderne, åbne standardteknologier til at udvikle, udrulle og vedligeholde løsninger.
 
-🗜️ | [Event driven architecture](https://en.wikipedia.org/wiki/Event-driven_architecture) | [Containerized Architecture](https://www.aquasec.com/cloud-native-academy/container-security/containerized-architecture/) | [Arkitekturoverblik - Q1 2023](arkitektur-overblik.md) | 
+🗜️ | [Event driven architecture](https://en.wikipedia.org/wiki/Event-driven_architecture) | [Containerized Architecture](https://www.aquasec.com/cloud-native-academy/container-security/containerized-architecture/) | [Arkitekturoverblik](arkitektur-overblik.md) | 
 
-## Værktøjer og teknologier (Q1 2023):
+## Værktøjer og teknologier:
 
 #### Versionskontrol og kodehåndtering
 🛡️ | [Git](https://git-scm.com/) | [GitHub](https://github.com/) | [GitHub Projects](https://docs.github.com/en/repositories/organizing-your-repository-with-projects/about-project-boards) | [GitHub Codespaces](https://github.com/features/codespaces) |
