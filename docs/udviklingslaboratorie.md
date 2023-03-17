@@ -2,6 +2,16 @@
 
 *I vores udviklingslaboratorium tester og afprøver vi nye teknologier og ideer, før de implementeres i organisationen. Formålet er at identificere og løse eventuelle problemer på forhånd, så vi kan sikre, at de teknologier, vi bruger, fungerer godt og er tilpasset vores behov. På den måde kan vi kontinuerligt forbedre vores organisation ved at eksperimentere med og udvikle nye teknologier og ideer.*
 
+### Tidligere eksperimenter
+
+~~- [Node-RED](https://nodered.org/about/)~~
+~~> Visuelt flow-baseret open-source udviklingsværktøj med der kan bygge bro imellem traditionel node.js backend udvikling og forretningsdrevet udvikling.~~ 
+Implementeret og anvendt i produktion første gang i bl.a. [Randers Kommunes klimamonitor](https://github.com/Randers-Kommune-Digitalisering/vis-klimadata-initiativer-aktiviteter)
+
+~~- [JSONata](https://docs.jsonata.org/overview.html)~~
+~~> Et deklarativt letvægts-sprog til forespørgsler og transformation af JSON-data~~ 
+Taget i brug i bl.a. [Randers Kommunes automatiske tilskudsbereging (v.1.0 - til fodterapi)](https://github.com/Randers-Kommune-Digitalisering/auto-tilskudsberegning-fodterapi)
+
 ### Nuværende eksperimenter (Q1-2023):
 
 ####  1. Intelligente forudsigelser og prognoser
@@ -17,10 +27,10 @@
  
 - [Pupeteer](https://pptr.dev/)
 
-  > Open-source Node.js bibliotek, der kan bruges til at automatisere webscraping og udtræk af data der kun er tilgængligt på websider.
+  > Node.js bibliotek, der kan bruges til at automatisere webscraping og udtræk af data der kun er tilgængligt på websider.
 
 #### 3. Hukommelsesbaseret lager til datastrukturer
 
-- [Redis](https://redis.io/)
+- [Redis]([https://redis.io/](https://redis.io/docs/about/))
 
-  > Open-source database-teknologi, der anvendes lagring og håndtering af data i realtid, hvilket muliggør hurtigere applikationsudvikling og bedre ydelse af web-applikationer."
+  > Realtime Open-source database-teknologi, der kan anvendes til lagring og håndtering af data i realtid, hvilket muliggør hurtigere applikationsudvikling og bedre ydelse af web-applikationer."
