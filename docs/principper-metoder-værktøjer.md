@@ -31,26 +31,26 @@ For at kunne leve op til de ovenstående metoder og principper er platformen en 
 
 🧰 Læs mere om de værktøjer og teknologier vi anvender i skrivende stund (Q1 2023):
 
-*Versionskontrol og kodehåndtering*
+### *Versionskontrol og kodehåndtering*
 
 ###### - Git: https://git-scm.com/
 ###### - GitHub: https://github.com/
 ###### - GitHub Projects: https://docs.github.com/en/repositories/organizing-your-repository-with-projects/about-project-boards
 ###### - GitHub Codespaces: https://github.com/features/codespaces
 
-*Containerisering*
+### *Containerisering*
 
 ###### - Docker-containere: https://www.docker.com/resources/what-container
 ###### - Docker Compose: https://docs.docker.com/compose/
 
-*Server-side teknologier*
+### *Server-side teknologier*
 
 ###### - Node.js: https://nodejs.org/
 ###### - npm: https://www.npmjs.com/
 ###### - JavaScript: https://developer.mozilla.org/da/docs/Web/JavaScript
 ###### - Node-RED: https://nodered.org/
 
-### Data Acquisition
+### *Data Acquisition*
 
 - REST: https://restfulapi.net/
 - SOAP: https://www.w3.org/TR/soap/
@@ -58,17 +58,17 @@ For at kunne leve op til de ovenstående metoder og principper er platformen en 
 - HTTPS: https://en.wikipedia.org/wiki/HTTPS
 - Puppeteer: https://pptr.dev/
 
-*Dataformater og forespørgselssprog*
+### *Dataformater og forespørgselssprog*
 
 ###### - JSON: https://www.json.org/json-da.html
 ###### - JSONata: https://jsonata.org/
 ###### - SQL: https://en.wikipedia.org/wiki/SQL
 
-*Data Visualisering og Analytics*
+### *Data Visualisering og Analytics*
 
 ###### - Apache Superset: https://superset.apache.org/
 
-*In-Memory Data Structure Store*
+### *In-Memory Data Structure Store*
 
 ###### - Redis: https://redis.io/
 
