@@ -21,11 +21,15 @@ Dette sikrer overholdelse af leverancemålene og den strategiske forankring og s
 ###### - Low-code development: https://architectelevator.com/architecture/low-code-no-code/
 ###### - Polyglot programming: https://www.techtarget.com/searchsoftwarequality/definition/polyglot-programming
 
-## Værktøjer og teknologier
+## Arkitektur, værktøjer og teknologier
 
 For at kunne leve op til de ovenstående metoder og principper er platformen en levende størrelse i løbende udvikling. Vi bruger et sæt moderne, åbne standardteknologier til at udvikle, udrulle og vedligeholde løsninger.
 
-🕦 Læs mere om de værktøjer og teknologier vi anvender i skrivende stund (Q1 2023):
+📗 Se et diagram over den nuværende systemarkitektur (Q1 2023):
+
+###### - Arkitekturoverblik: [Diagram - Q1 2023](arkitektur-overblik.md)
+
+🧰 Læs mere om de værktøjer og teknologier vi anvender i skrivende stund (Q1 2023):
 
 *Versionskontrol og kodehåndtering*
 
@@ -59,3 +63,4 @@ For at kunne leve op til de ovenstående metoder og principper er platformen en 
 *In-Memory Data Structure Store*
 
 ###### - Redis: https://redis.io/
+
