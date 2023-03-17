@@ -17,4 +17,10 @@
  
 - [Pupeteer](https://pptr.dev/)
 
-  > Puppeteer er et open-source Node.js bibliotek, der kan bruges til at automatisere webscraping og udtræk af data der kun er tilgængligt på websider.
+  > Open-source Node.js bibliotek, der kan bruges til at automatisere webscraping og udtræk af data der kun er tilgængligt på websider.
+
+#### 3. Hukommelsesbaseret lager til datastrukturer
+
+- [Redis](https://redis.io/)
+
+  > Open-source database-teknologi, der anvendes lagring og håndtering af data i realtid, hvilket muliggør hurtigere applikationsudvikling og bedre ydelse af web-applikationer."
