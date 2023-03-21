@@ -9,13 +9,13 @@ I Digitaliseringsteamet leverer vi løsninger der følger kommunens egen, [den f
 Platformen bygger på åbne standarder og har fokus på skalering og samarbejde på tværs hvorfor der anvendes ensartede metoder til samarbejde om og styring af udviklingen.
 Dette sikrer overholdelse af leverancemålene og den strategiske forankring og samtidigt minimeres risikoen for teknisk gæld.
 
-📖 [GitOps](https://www.weave.works/technologies/gitops/) | [Policy-as-code](https://www.weave.works/blog/what-is-policy-as-code-and-why-its-needed) | [Docs-as-code](https://www.writethedocs.org/guide/docs-as-code/) | [12Factor App](https://12factor.net/) | [Low-code development](https://architectelevator.com/architecture/low-code-no-code/) | [Polyglot programming](https://www.techtarget.com/searchsoftwarequality/definition/polyglot-programming) |
+🔃 | [GitOps](https://www.weave.works/technologies/gitops/) | [Policy-as-code](https://www.weave.works/blog/what-is-policy-as-code-and-why-its-needed) | [Docs-as-code](https://www.writethedocs.org/guide/docs-as-code/) | [12Factor App](https://12factor.net/) | [Low-code development](https://architectelevator.com/architecture/low-code-no-code/) | [Polyglot programming](https://www.techtarget.com/searchsoftwarequality/definition/polyglot-programming) |
 
 ## Arkitektur
 
 For at kunne leve op til de ovenstående metoder og principper er platformen en levende størrelse i løbende udvikling. Vi bruger et sæt moderne, åbne standardteknologier til at udvikle, udrulle og vedligeholde løsninger.
 
-🗜️ | [Event driven architecture](https://en.wikipedia.org/wiki/Event-driven_architecture) | [Containerized Architecture](https://www.aquasec.com/cloud-native-academy/container-security/containerized-architecture/) | [Arkitekturoverblik](arkitektur-overblik.md) | 
+📐 | [Event driven architecture](https://en.wikipedia.org/wiki/Event-driven_architecture) | [Containerized Architecture](https://www.aquasec.com/cloud-native-academy/container-security/containerized-architecture/) | [Arkitekturoverblik](arkitektur-overblik.md) | 
 
 ## Værktøjer og teknologier:
 
