@@ -40,7 +40,12 @@
 
 <br>
 
-#### Valgfrit Trin: Opgavestyring og overblik:
-- GitHub Projects 
-    - Lær Projects at kende på 3 minutter ⮕ [How to use Projects](https://www.youtube.com/watch?v=yFQ-p6wMS_Y)
-    - Dokumentation ⮕ [Planning and tracking with Projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects)
+---
+
+<details>
+<summary>
+Vil du have besked, hvergang denne guide bliver opdateret? Klik her for at se hvordan!</summary>
+
+![get-notifications](https://user-images.githubusercontent.com/80261692/226872119-a631b67e-985a-4da2-8229-20e59ec4f3f6.gif)
+
+</details>
