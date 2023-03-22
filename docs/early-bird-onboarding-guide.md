@@ -14,10 +14,13 @@
 - Følg [guiden](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account) på GitHub
 - Vælg "GitHub Free for personal accounts"
 - Anvend dine intialer og tilføj "-randers" når du opretter brugernavnet (f.eks - "eks-randers")
+- Nu kan du stifte bekendskab med de koncepter og arbejdsgange GitHub tilbyder ved selvstudier
+
+💭 | [Learn to use Issues](https://docs.github.com/en/issues) | [Learn about repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories) | [Learn to collaborate on issues](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests) | [Learn about Projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects) | [Learn about notifications](https://docs.github.com/en/account-and-profile/managing-subscriptions-and-notifications-on-github) |
 
 <br>
 
-## ✔️  Nu er du klar til at bruge GitHub!
+## ✔️  Så er du klar til at bruge GitHub!
 
 <br>
 
