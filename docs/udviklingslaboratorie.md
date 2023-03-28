@@ -9,6 +9,11 @@
 
 ✅ Implementeret og anvendt i produktion første gang i bl.a. [Randers Kommunes klimamonitor](https://github.com/Randers-Kommune-Digitalisering/vis-klimadata-initiativer-aktiviteter)
 
+~~- [Apache Superset](https://https://superset.apache.org/)~~
+~~> Hurtig, let og intuitiv data-værktøj fyldt med muligheder, der gør det nemt for en bred skare af brugere at udforske og visualisere deres data.~~
+
+✅ Implementeret og anvendt i produktion i bl.a. [Randers Kommunes klimamonitor](https://github.com/Randers-Kommune-Digitalisering/vis-klimadata-initiativer-aktiviteter)
+
 ~~- [JSONata](https://docs.jsonata.org/overview.html)~~
 ~~> Et deklarativt letvægts-sprog til forespørgsler og transformation af JSON-data~~ 
 
