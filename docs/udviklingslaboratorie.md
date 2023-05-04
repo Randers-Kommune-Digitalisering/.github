@@ -19,7 +19,7 @@
 
 ✅ Taget i brug i bl.a. [Randers Kommunes automatiske tilskudsbereging (v.1.0 - til fodterapi)](https://github.com/Randers-Kommune-Digitalisering/doc-arbejdsgangsbeskrivelser/tree/main/Udbetaling%20af%20tilskud%20til%20fodpleje)
 
-### Nuværende eksperimenter (Q1-2023):
+### Nuværende eksperimenter (Q2-2023):
 
 ####  1. Intelligente forudsigelser og prognoser
 
@@ -31,7 +31,10 @@
   > [Artikel på TowardsDataScience](https://towardsdatascience.com/time-series-analysis-with-facebook-prophet-how-it-works-and-how-to-use-it-f15ecf2c0e3a) der går i dybden med, hvordan man kan bruge Prophet til at analysere tidsseriedata og lave forudsigelser.
 
 #### 2. Headless data scraping
- 
+- [broserless](https://www.browserless.io/scraping-automation/)
+
+> Løstkoblet webscraping og browserautomatisering
+
 - [Pupeteer](https://pptr.dev/)
 
   > Node.js bibliotek, der kan bruges til at automatisere webscraping og udtræk af data der kun er tilgængligt på websider.
