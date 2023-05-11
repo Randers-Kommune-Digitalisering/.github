@@ -31,7 +31,7 @@
   > [Artikel på TowardsDataScience](https://towardsdatascience.com/time-series-analysis-with-facebook-prophet-how-it-works-and-how-to-use-it-f15ecf2c0e3a) der går i dybden med, hvordan man kan bruge Prophet til at analysere tidsseriedata og lave forudsigelser.
 
 #### 2. Headless data scraping
-- [broserless](https://www.browserless.io/scraping-automation/)
+- [browserless](https://www.browserless.io/scraping-automation/)
 
 > Løstkoblet webscraping og browserautomatisering
 
