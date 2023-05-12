@@ -19,7 +19,8 @@ For at kunne leve op til de ovenstående metoder og principper er platformen en 
 
 ## Værktøjer og teknologier
 
-Vores digitaliseringsplatform består af en række værktøjer, der hjælper os med at udvikle, implementere og vedligeholde vores digitale løsninger. Herunder er en liste over værktøjer vi anvender til versionskontrol og kodehåndtering, udrulning af løsninger, monitorering, logging og metrics samt identitetskontrol og rollebaseret adgangsstyring. For at kunne levere løsninger der understøtter forvaltningerne arbejder vi med en håndfuld dataformater og forespørgselssprog der kan indsamle og kvalificere data til automatisering, ledelsesinformation og beslutningsstøtte.
+Vores digitaliseringsplatform består af en række værktøjer, der hjælper os med at udvikle, implementere og vedligeholde vores digitale løsninger. Herunder er en liste over værktøjer vi anvender til versionskontrol og kodehåndtering, udrulning af løsninger, monitorering, logging og metrics samt identitetskontrol og rollebaseret adgangsstyring. 
+Til at levere løsninger der understøtter forvaltningerne arbejder vi derudover med en håndfuld dataformater og forespørgselssprog der kan indsamle og kvalificere data til automatisering, ledelsesinformation og beslutningsstøtte.
 
 #### Versionskontrol og kodehåndtering
 🛡️ | [Git](https://git-scm.com/) | [GitHub](https://github.com/) | [GitHub Projects](https://docs.github.com/en/repositories/organizing-your-repository-with-projects/about-project-boards) | [GitHub Codespaces](https://github.com/features/codespaces) |
