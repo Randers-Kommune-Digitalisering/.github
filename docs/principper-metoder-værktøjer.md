@@ -17,7 +17,9 @@ For at kunne leve op til de ovenstående metoder og principper er platformen en 
 
 📐 | [Event driven architecture](https://en.wikipedia.org/wiki/Event-driven_architecture) | [Containerized Architecture](https://www.aquasec.com/cloud-native-academy/container-security/containerized-architecture/) | [Arkitekturoverblik](arkitektur-overblik.md) | 
 
-## Værktøjer og teknologier:
+## Værktøjer og teknologier
+
+Vores digitaliseringsplatform består af en række værktøjer, der hjælper os med at udvikle, implementere og vedligeholde vores digitale løsninger. Herunder er en liste over værktøjer vi anvender til versionskontrol og kodehåndtering, udrulning af løsninger, monitorering, logging og metrics samt identitetskontrol og rollebaseret adgangsstyring. For at kunne levere løsninger der understøtter forvaltningerne arbejder vi med en håndfuld dataformater og forespørgselssprog der kan indsamle og kvalificere data til automatisering, ledelsesinformation og beslutningsstøtte.
 
 #### Versionskontrol og kodehåndtering
 🛡️ | [Git](https://git-scm.com/) | [GitHub](https://github.com/) | [GitHub Projects](https://docs.github.com/en/repositories/organizing-your-repository-with-projects/about-project-boards) | [GitHub Codespaces](https://github.com/features/codespaces) |
@@ -43,5 +45,8 @@ For at kunne leve op til de ovenstående metoder og principper er platformen en 
 #### Data Visualisering og Analytics
 📊 | [Apache Superset](https://superset.apache.org/) |
 
-#### Teknologier under afprøvning
+## Teknologier under afprøvning
+
+Vi er altid på udkig efter nye teknologier og afprøver dem i vores udviklingslaboratorium.
+
 🧪 | [Udviklingslaboratoriet](udviklingslaboratorie.md) |
