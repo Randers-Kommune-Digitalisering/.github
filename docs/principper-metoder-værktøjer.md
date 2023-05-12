@@ -25,14 +25,14 @@ For at kunne leve op til de ovenstående metoder og principper er platformen en 
 #### Containerisering
 📦 | [Docker-containere](https://www.docker.com/resources/what-container) | [Docker Compose](https://docs.docker.com/compose/) |
 
-#### Server-side teknologier
-⚙️ | [Node.js](https://nodejs.org/) | [npm](https://www.npmjs.com/) | [JavaScript](https://developer.mozilla.org/da/docs/Web/JavaScript) | [Node-RED](https://nodered.org/) |
-
 #### Identitetskontrol og rollebaseret adgangsstyring
 🔑 | [Keycloak](https://www.keycloak.org/) |
 
 #### Monitorering, Logging og metrics
 📉 | [Prometheus](https://prometheus.io/) | [Grafana](https://grafana.com/oss/) |
+
+#### Server-side teknologier
+⚙️ | [Node.js](https://nodejs.org/) | [npm](https://www.npmjs.com/) | [JavaScript](https://developer.mozilla.org/da/docs/Web/JavaScript) | [Node-RED](https://nodered.org/) |
 
 #### Data Acquisition
 🔀 | [REST](https://restfulapi.net/) | [SOAP](https://www.w3.org/TR/soap/) | [SFTP](https://en.wikipedia.org/wiki/SSH_File_Transfer_Protocol) | [Puppeteer](https://pptr.dev/) |
