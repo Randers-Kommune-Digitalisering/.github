@@ -28,6 +28,9 @@ For at kunne leve op til de ovenstående metoder og principper er platformen en 
 #### Server-side teknologier
 ⚙️ | [Node.js](https://nodejs.org/) | [npm](https://www.npmjs.com/) | [JavaScript](https://developer.mozilla.org/da/docs/Web/JavaScript) | [Node-RED](https://nodered.org/) |
 
+#### Identitetskontrol og rollebaseret adgangsstyring
+🔑 | [Keycloak](https://www.keycloak.org/) |
+
 #### Monitorering, Logging og metrics
 📉 | [Prometheus](https://prometheus.io/) | [Grafana](https://grafana.com/oss/) |
 
