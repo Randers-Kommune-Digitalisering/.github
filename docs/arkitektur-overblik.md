@@ -32,7 +32,7 @@ end
 subgraph GitHub
 
     subgraph Versionsstyring
-    dev-branch[(Udviklings \n kildekode)]--->
+    dev-branch[(Udviklings \n kildekode)]--Anmodning-->
     review{Godkendelse}
     main-branch[(Godkendt \n kildekode)]
     end
@@ -40,15 +40,15 @@ subgraph GitHub
     OGS{Opgave\nstyring}
 end
 
-main-branch----->
-DEP-->PRODUKTION
+main-branch -- pull ----o DEP
+DEP--->PRODUKTION
 
 dkt[(test \n datakilde)]-->DKTT
 dkp[(produktion \n datakilde)]-->DKTP
 UDV1((Udvikling))-->dev-branch
 UDV2((Udvikling))-->dev-branch
 UDV3((Udvikling))-->dev-branch
-review--->main-branch
+review--Anmodning-->main-branch
 review-->KVALITETSSIKRING-->review
 OGS<-->review
 
