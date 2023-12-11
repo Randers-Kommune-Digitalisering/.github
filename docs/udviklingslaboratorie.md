@@ -17,6 +17,12 @@
 ~~- [JSONata](https://docs.jsonata.org/overview.html)~~
 ~~> Et deklarativt letvægts-sprog til forespørgsler og transformation af JSON-data~~ 
 
+~~- [browserless](https://www.browserless.io/scraping-automation/)~~
+~~- [Pupeteer](https://pptr.dev/)~~
+
+~~- > Headless data scraping / Løstkoblet webscraping og browserautomatisering.~~
+~~- > Node.js bibliotek, der kan bruges til at automatisere webscraping og udtræk af data der kun er tilgængligt på websider.~~
+
 ✅ Taget i brug i bl.a. [Randers Kommunes automatiske tilskudsbereging (v.1.0 - til fodterapi)](https://github.com/Randers-Kommune-Digitalisering/doc-arbejdsgangsbeskrivelser/tree/main/Udbetaling%20af%20tilskud%20til%20fodpleje)
 
 ### Nuværende eksperimenter (Q4-2023):
@@ -30,23 +36,15 @@
 
   > [Artikel på TowardsDataScience](https://towardsdatascience.com/time-series-analysis-with-facebook-prophet-how-it-works-and-how-to-use-it-f15ecf2c0e3a) der går i dybden med, hvordan man kan bruge Prophet til at analysere tidsseriedata og lave forudsigelser.
 
-#### 2. Headless data scraping
-- [browserless](https://www.browserless.io/scraping-automation/)
+#### 2. Hukommelsesbaseret lager til datastrukturer
 
-> Løstkoblet webscraping og browserautomatisering
-
-- [Pupeteer](https://pptr.dev/)
-
-  > Node.js bibliotek, der kan bruges til at automatisere webscraping og udtræk af data der kun er tilgængligt på websider.
-
-#### 3. Hukommelsesbaseret lager til datastrukturer
-
-- [Redis]([https://redis.io/](https://redis.io/docs/about/))
+- [Redis](https://redis.io/docs/about/)
 
   > Realtime Open-source database-teknologi, der kan anvendes til lagring og håndtering af data i realtid, hvilket muliggør hurtigere applikationsudvikling og bedre ydelse af web-applikationer."
 
-#### 4. FiWare Quantum Leap
+#### 3. Skalerbar håndtering af IoT-bygningsdata 
 
-- [Quantum Leap](https://quantumleap.readthedocs.io/en/latest/)
+- [FiWare Quantum Leap](https://quantumleap.readthedocs.io/en/latest/)
+- [FiWare Scorpio Broker](https://scorpio.readthedocs.io/en/latest/)
 
-  > API som understøtter lagring af NGSIv2 i en time-series database.
+  > API og context broker som understøtter lagring af NGSIv2 i en time-series database.
