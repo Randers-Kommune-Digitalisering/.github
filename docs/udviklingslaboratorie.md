@@ -19,7 +19,7 @@
 
 ✅ Taget i brug i bl.a. [Randers Kommunes automatiske tilskudsbereging (v.1.0 - til fodterapi)](https://github.com/Randers-Kommune-Digitalisering/doc-arbejdsgangsbeskrivelser/tree/main/Udbetaling%20af%20tilskud%20til%20fodpleje)
 
-### Nuværende eksperimenter (Q2-2023):
+### Nuværende eksperimenter (Q4-2023):
 
 ####  1. Intelligente forudsigelser og prognoser
 
@@ -44,3 +44,9 @@
 - [Redis]([https://redis.io/](https://redis.io/docs/about/))
 
   > Realtime Open-source database-teknologi, der kan anvendes til lagring og håndtering af data i realtid, hvilket muliggør hurtigere applikationsudvikling og bedre ydelse af web-applikationer."
+
+#### 4. FiWare Quantum Leap
+
+- [Quantum Leap](https://quantumleap.readthedocs.io/en/latest/)
+
+  > API som understøtter lagring af NGSIv2 i en time-series database.
