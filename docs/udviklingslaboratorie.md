@@ -48,5 +48,5 @@
 - ~~[FiWare Scorpio Broker](https://scorpio.readthedocs.io/en/latest/)~~
 - [CrateDB](https://cratedb.com/)
 
-  > Stack som sammmen med Redis understøtter lagring af NGSIv2 i en time-series database.
+  > Stack som sammmen med Redis understøtter lagring af spatial og temporal data i en time-series database (CrateDB).
 
