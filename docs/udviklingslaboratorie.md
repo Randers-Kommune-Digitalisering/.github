@@ -23,9 +23,9 @@
 ~~- > Headless data scraping / Løstkoblet webscraping og browserautomatisering.~~
 ~~- > Node.js bibliotek, der kan bruges til at automatisere webscraping og udtræk af data der kun er tilgængligt på websider.~~
 
-✅ Taget i brug i bl.a. [Randers Kommunes automatiske tilskudsbereging (v.1.0 - til fodterapi)](https://github.com/Randers-Kommune-Digitalisering/doc-arbejdsgangsbeskrivelser/tree/main/Udbetaling%20af%20tilskud%20til%20fodpleje)
+✅ Taget i brug i bl.a. [Randers Kommunes automatiske tilskudsberegning til fodterapi](https://github.com/Randers-Kommune-Digitalisering/doc-arbejdsgangsbeskrivelser/tree/main/Udbetaling%20af%20tilskud%20til%20fodpleje)
 
-### Nuværende eksperimenter (Q4-2023):
+### Nuværende eksperimenter (Q4-2023 - Q1-2024):
 
 ####  1. Intelligente forudsigelser og prognoser
 
@@ -45,6 +45,8 @@
 #### 3. Skalerbar håndtering af IoT-bygningsdata 
 
 - [FiWare Quantum Leap](https://quantumleap.readthedocs.io/en/latest/)
-- [FiWare Scorpio Broker](https://scorpio.readthedocs.io/en/latest/)
+- ~~[FiWare Scorpio Broker](https://scorpio.readthedocs.io/en/latest/)~~
+- [CrateDB](https://cratedb.com/)
 
-  > API og context broker som understøtter lagring af NGSIv2 i en time-series database.
+  > Stack som sammmen med Redis understøtter lagring af spatial og temporal data i en time-series database (CrateDB).
+

@@ -35,12 +35,15 @@ Til at levere løsninger der understøtter forvaltningerne arbejder vi derudover
 📉 | [Prometheus](https://prometheus.io/) | [Grafana](https://grafana.com/oss/) |
 
 #### Server-side teknologier
-⚙️ | [Node.js](https://nodejs.org/) | [npm](https://www.npmjs.com/) | [JavaScript](https://developer.mozilla.org/da/docs/Web/JavaScript) | [Node-RED](https://nodered.org/) |
+⚙️ | [JavaScript](https://developer.mozilla.org/da/docs/Web/JavaScript) | [Node.js](https://nodejs.org/) | [npm](https://www.npmjs.com/) | [Node-RED](https://nodered.org/) | [Python](https://www.python.org/) |
 
-#### Data Acquisition
-🔀 | [REST](https://restfulapi.net/) | [SOAP](https://www.w3.org/TR/soap/) | [SFTP](https://en.wikipedia.org/wiki/SSH_File_Transfer_Protocol) | [Puppeteer](https://pptr.dev/) |
+#### Klient-side teknologier
+🖥️ | [VueJS](https://vuejs.org/) |
 
-####  Dataformater og forespørgselssprog
+#### Datatræk
+🔀 | [REST](https://restfulapi.net/) | [SOAP](https://www.w3.org/TR/soap/) | [SFTP](https://en.wikipedia.org/wiki/SSH_File_Transfer_Protocol) | [Puppeteer](https://pptr.dev/) | [Browserless](https://www.browserless.io/) |
+
+####  Dataformatering og forespørgselssprog
 🗃️ | [JSON](https://www.json.org/json-da.html) | [JSONata](https://jsonata.org/) | [SQL](https://en.wikipedia.org/wiki/SQL) |
 
 #### Data Visualisering og Analytics
