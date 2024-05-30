@@ -81,6 +81,8 @@ Henvisninger til applikationens afhængigheder, kategoriseret og med links til o
 
 :cloud: | API'er, CDN'er og andre online services som applikationen kommunikerer med
 
+:heavy_dollar_sign: | Miljøvariabler som forventes at være populeret
+
 ## Udvikling
 
 Beskrivelse af hvordan løsningen installeres og startes i et CodeSpace.
