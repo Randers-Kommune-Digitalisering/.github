@@ -16,7 +16,7 @@
 - Anvend dine intialer og tilføj "-randers" når du opretter brugernavnet (f.eks - "eks-randers")
 - Nu kan du stifte bekendskab med de koncepter og arbejdsgange GitHub tilbyder ved selvstudier
 
-💭 | [Learn to use Issues](https://docs.github.com/en/issues) | [Learn about repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories) | [Learn to collaborate on issues](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests) | [Learn about Projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects) | [Learn about notifications](https://docs.github.com/en/account-and-profile/managing-subscriptions-and-notifications-on-github) |
+💭 | [Learn about repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories) | [Learn about Projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects)  | [Learn to use Issues](https://docs.github.com/en/issues) | [Learn to collaborate on issues](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests) | [Learn about notifications](https://docs.github.com/en/account-and-profile/managing-subscriptions-and-notifications-on-github) |
 
 <br>
 
@@ -30,9 +30,10 @@
 🖥️ | [Forstå CodeSpaces på 1 minut](https://www.youtube.com/watch?v=sYJ3CHtT6WM) | [GitHub Codespaces Documentation](https://docs.github.com/en/codespaces) |
 
 #### Trin 4: Kom i gang med at udvikle
-> *Digitalisering i Randers Kommune bruger Node-RED til udvikling af forretningslogik og snitfladeforbindelser. Få en hurtigt introduktion i "Node-RED Essentials" og så er du klar til at gå til vores officielle Node-RED template repository og følge guiden for at komme i gang med at udvikle*
+> *Digitalisering i Randers Kommune bruger Node-RED og Python til udvikling af forretningslogik og snitfladeforbindelser.
+> Få en hurtigt introduktion i "[Node-RED Essentials](https://www.youtube.com/watch?v=ksGeUD26Mw0&list=PLyNBB9VCLmo1hyO-4fIZ08gqFcXBkHy-6)" og så er du klar til at gå til vores officielle Node-RED template repository og følge guiden for at komme i gang med at udvikle.*
 
-🟥 | [Node-RED Essentials](https://www.youtube.com/watch?v=ksGeUD26Mw0&list=PLyNBB9VCLmo1hyO-4fIZ08gqFcXBkHy-6) | [Node-RED template](https://github.com/Randers-Kommune-Digitalisering/node-red-template/blob/main/README.md) |
+🟥 | [Node-RED template](https://github.com/Randers-Kommune-Digitalisering/node-red-template/) | [Node-RED + Vue template](https://github.com/Randers-Kommune-Digitalisering/node-red-vue-template) | [Python app template](https://github.com/Randers-Kommune-Digitalisering/python-app-template)
 
 <br>
 
