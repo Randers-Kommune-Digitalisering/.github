@@ -24,7 +24,7 @@
 
 ✅ Taget i brug i bl.a. [Randers Kommunes automatiske tilskudsberegning til fodterapi](https://github.com/Randers-Kommune-Digitalisering/doc-arbejdsgangsbeskrivelser/tree/main/Udbetaling%20af%20tilskud%20til%20fodpleje)
 
-### Nuværende eksperimenter (Q1-2024 - Q4-2024):
+### Nuværende eksperimenter (Q3-2024 - Q4-2024):
 
 ####  1. Intelligente forudsigelser og prognoser
 
