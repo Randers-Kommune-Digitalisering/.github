@@ -9,7 +9,7 @@ I Digitaliseringsteamet leverer vi løsninger der følger kommunens egen, [den f
 Platformen bygger på åbne standarder og har fokus på skalering og samarbejde på tværs hvorfor der anvendes ensartede metoder til samarbejde om og styring af udviklingen.
 Dette sikrer overholdelse af leverancemålene og den strategiske forankring og samtidigt minimeres risikoen for teknisk gæld.
 
-🔃 | [GitOps](https://www.weave.works/technologies/gitops/) | [Privacy by design](https://sikkerdigital.dk/myndighed/databeskyttelse-og-gdpr/indbygget-databeskyttelse) | [Policy-as-code](https://www.weave.works/blog/what-is-policy-as-code-and-why-its-needed) | [Docs-as-code](https://www.writethedocs.org/guide/docs-as-code/) | [12Factor App](https://12factor.net/) | [Low-code development](https://architectelevator.com/architecture/low-code-no-code/) | [Polyglot programming](https://www.techtarget.com/searchsoftwarequality/definition/polyglot-programming) |
+🔃 | [GitOps](https://www.weave.works/technologies/gitops/) | [Indbygget databeskyttelse (Privacy-as-code)](https://sikkerdigital.dk/myndighed/databeskyttelse-og-gdpr/indbygget-databeskyttelse) | [Docs-as-code](https://www.writethedocs.org/guide/docs-as-code/) | [12Factor App](https://12factor.net/) | [Low-code development](https://architectelevator.com/architecture/low-code-no-code/) | [Polyglot programming](https://www.techtarget.com/searchsoftwarequality/definition/polyglot-programming) |
 
 ## Arkitektur
 
@@ -35,7 +35,7 @@ Til at levere løsninger der understøtter forvaltningerne arbejder vi derudover
 📉 | [Prometheus](https://prometheus.io/) | [Grafana](https://grafana.com/oss/) |
 
 #### Server-side teknologier
-⚙️ | [JavaScript](https://developer.mozilla.org/da/docs/Web/JavaScript) | [Node.js](https://nodejs.org/) | [npm](https://www.npmjs.com/) | [Node-RED](https://nodered.org/) | [Python](https://www.python.org/) |
+⚙️ | [Python](https://www.python.org/) | [JavaScript](https://developer.mozilla.org/da/docs/Web/JavaScript) | [Node.js](https://nodejs.org/) | [Node-RED](https://nodered.org/) |
 
 #### Klient-side teknologier
 🖥️ | [VueJS](https://vuejs.org/) |
