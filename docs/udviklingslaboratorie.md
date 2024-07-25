@@ -39,5 +39,6 @@
 ####  2. Generativ AI
 
 - [GitHub Copilot](https://github.com/features/copilot)
+
   > Udviklingsassistance med GitHub Copilot
 
