@@ -6,7 +6,7 @@ I Digitaliseringsteamet leverer vi løsninger der følger kommunens egen, [den f
 
 ## Metoder 
 
-Platformen bygger på åbne standarder og har fokus på skalering og samarbejde på tværs hvorfor der anvendes ensartede metoder til samarbejde om og styring af udviklingen.
+Driftsplatformen bygger på åbne standarder og har fokus på skalering og samarbejde på tværs hvorfor der anvendes ensartede metoder til samarbejde om og styring af udviklingen.
 Dette sikrer overholdelse af leverancemålene og den strategiske forankring og samtidigt minimeres risikoen for teknisk gæld.
 
 🔃 | [GitOps](https://www.weave.works/technologies/gitops/) | [Indbygget databeskyttelse (Privacy-as-code)](https://sikkerdigital.dk/myndighed/databeskyttelse-og-gdpr/indbygget-databeskyttelse) | [Docs-as-code](https://www.writethedocs.org/guide/docs-as-code/) | [12Factor App](https://12factor.net/) | [Low-code development](https://architectelevator.com/architecture/low-code-no-code/) | [Polyglot programming](https://www.techtarget.com/searchsoftwarequality/definition/polyglot-programming) |
