@@ -11,6 +11,8 @@ Dette sikrer overholdelse af leverancemålene og den strategiske forankring og s
 
 🔃 | [GitOps](https://www.weave.works/technologies/gitops/) | [Indbygget databeskyttelse (Privacy-as-code)](https://sikkerdigital.dk/myndighed/databeskyttelse-og-gdpr/indbygget-databeskyttelse) | [Docs-as-code](https://www.writethedocs.org/guide/docs-as-code/) | [12Factor App](https://12factor.net/) | [Low-code development](https://architectelevator.com/architecture/low-code-no-code/) | [Polyglot programming](https://www.techtarget.com/searchsoftwarequality/definition/polyglot-programming) |
 
+[Læs mere om hvordan Randers Kommune implementerer Privacy-by-Design her](/docs/privacy-by-design.md)
+
 ## Arkitektur
 
 For at kunne leve op til de ovenstående metoder og principper er platformen en levende størrelse i løbende udvikling. Vi bruger et sæt moderne, åbne standardteknologier til at udvikle, udrulle og vedligeholde løsninger.

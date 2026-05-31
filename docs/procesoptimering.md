@@ -4,7 +4,7 @@ Digitaliseringsteamet har fokus på procesoptimering, hvor vi kan tilbyde vejled
 
 Henvendelser vedrørende automatiseringsprojekter kan ske gennem oprettelse af sag i Topdesk.
 
-## A. Proceskortlægning og procesoptimering 
+## A. Proceskortlægning og -optimering 
 
 Proceskortlægning er et værdifuldt værktøj der bruges til at forstå og forbedre en arbejdsproces. Ved hjælp af proceskortlægningen er det lettere at få tydeliggjort flaskehalse og ressourcespild.  I samarbejde med en proceskonsulent fra Digitaliseringsteamet udarbejdes der en gennemgang og kortlægning af den pågældende arbejdsproces. Gennemgangen gennemføres ved hjælp af interviews og eventuel optagelse af selve arbejdsgangen. 
 Proceskortlægningen resulterer i et procesdiagram, som illustrerer arbejdsgangen og hvor involverede aktører og systemer i processen tydeliggøres:
